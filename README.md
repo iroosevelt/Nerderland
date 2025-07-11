@@ -2,7 +2,9 @@
 
 **“Inside every mystery, mystery...”**
 
-**Nerderland** is a timeless, community-powered web platform and creative archive for nerds, misfits, and digital explorers. It blends the aesthetic of alien archives, early internet chaos, and next-gen decentralized technology.
+**Nerderland** is a timeless, community-powered web platform and creative archive for nerds, yah yah yah... It blends the aesthetic of alien archives, early internet chaos, and next-gen decentralized technology.
+
+A gamified social arena for nerds. Nothing too deep... Or is it?
 
 This project is built to be:
 
@@ -152,8 +154,8 @@ This isn’t just software — it’s digital culture. Nerderland is:
 
 ---
 
-## 👨‍🚀 Author
+## 👨‍🚀 Built by Humans, floating in space
 
-**Roosevelt Innocent (Trouper) + ChatGPT**  
-Nerderland Society, 2025  
+**Roosevelt Innocent (Trouper)**  
+Nerderland Social Arena, 2025  
 🧪🛸🧠
