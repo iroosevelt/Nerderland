@@ -4,7 +4,7 @@
 
 **Nerderland** is a timeless, community-powered web platform and creative archive for nerds, yah yah yah... It blends the aesthetic of alien archives, early internet chaos, and next-gen decentralized technology.
 
-A gamified social arena for nerds. Nothing too deep... Or is it?
+# A gamified social arena for nerds. Nothing too deep... Or is it?
 
 This project is built to be:
 
@@ -151,6 +151,7 @@ This isn’t just software — it’s digital culture. Nerderland is:
 - A platform that resists deletion, decay, and dullness
 
 > “We don’t just host nerds — we preserve them.”
+> "Don't get Nerfed!"
 
 ---
 
